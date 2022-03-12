@@ -1,5 +1,5 @@
-#ifndef __BBComplex__H__
-#define __BBComplex__H__
+#ifndef __VComplex__H__
+#define __VComplex__H__
 
 #ifndef _WIN32
 #define __forceinline __attribute__((always_inline))
